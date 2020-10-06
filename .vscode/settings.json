@@ -1,0 +1,6 @@
+{
+    "go.toolsEnvVars": {
+        "GOROOT": "C:\\Users\\toyok\\AppData\\Local\\tinygo\\goroot-go1.14.7-52d18ac690d24219461c26a970d9d4985e3ff5be2393a2b7e5c663e8814f618a-syscall",
+        "GOFLAGS": "-tags=cortexm,baremetal,linux,arm,atsamd21g18,atsamd21,sam,sam,atsamd21g18a,xiao,tinygo,gc.conservative,scheduler.tasks"
+    }
+}
